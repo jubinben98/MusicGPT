@@ -1,1 +1,1 @@
-# MusicGPT
+Movie Recommendation application
